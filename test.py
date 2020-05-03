@@ -1,6 +1,6 @@
+def compter_jusqu_a(nombre):
+    for i in range(1, nombre + 1):
+        print(i)
 
-print(1)
-print(2)
-print(3)
-print(4)
-print(5)
+
+compter_jusqu_a(20)
